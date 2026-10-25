@@ -1,0 +1,8 @@
+build/
+dist/
+__pycache__/
+*.spec
+舊照片/
+整理後照片/
+.venv/
+.env
